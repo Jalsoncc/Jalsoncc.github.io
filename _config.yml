@@ -1,5 +1,5 @@
 # Site settings
-title: Hanson
+title: Jalson
 header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "jalson|Think Different"  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "jalson"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
