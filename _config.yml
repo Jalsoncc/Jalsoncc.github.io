@@ -2,9 +2,9 @@
 title: Hanson
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "jalson|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://jalsoncc.github.io"  
 
 # About/contact
 owner: 
@@ -18,10 +18,9 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: jalsoncc
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: jalsoncc
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -51,9 +50,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : jalson
   disqus :
-      short_name : hanson
+      short_name : jalson
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
